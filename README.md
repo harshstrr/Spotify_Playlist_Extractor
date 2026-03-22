@@ -1,4 +1,4 @@
-# 🎵 Spotify → JioSaavn Playlist Exporter API
+# 🎵 Spotify To JioSaavn Playlist Data Exporter API
 
 A powerful backend service that **extracts Spotify playlists** and **converts them into JioSaavn-compatible data** for use inside my custom music app **Musify** 🚀
 
